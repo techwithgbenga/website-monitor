@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "https://example.com",
+    "https://another-site.org"
+  ],
+  "email": {
+    "sender": "your-email@gmail.com",
+    "receiver": "alert-receiver@example.com",
+    "smtp_server": "smtp.gmail.com",
+    "port": 465,
+    "password": "your-email-password"
+  }
+}
